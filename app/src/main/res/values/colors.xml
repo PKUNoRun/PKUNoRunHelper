@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_100">#ffffcdd2</color>
+    <color name="red_200">#ffef9a9a</color>
+    <color name="red_300">#ffe57373</color>
+    <color name="red_400">#ffef5350</color>
+    <color name="red_50">#ffffebee</color>
+    <color name="red_500">#fff44336</color>
+    <color name="red_600">#ffe53935</color>
+    <color name="red_700">#ffd32f2f</color>
+    <color name="red_800">#ffc62828</color>
+    <color name="red_900">#ffb71c1c</color>
+    <color name="red_A100">#ffff8a80</color>
+    <color name="red_A200">#ffff5252</color>
+    <color name="red_A400">#ffff1744</color>
+    <color name="red_A700">#ffd50000</color>
+    <color name="colorPrimary">@color/red_500</color>
+    <color name="colorPrimaryDark">@color/red_700</color>
+    <color name="colorAccent">@color/red_600</color>
+</resources>

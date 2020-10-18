@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PKUNoRunHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="path_length_hint">路径长度(单位km)</string>
+    <string name="speed_hint">配速(单位min/km)</string>
+    <string name="user_guide_title">PKURunner辅助工具</string>
+    <string name="user_guide_content">
+在PKURunner-设置-破解功能中选择导出data.db, 在弹出的选择器中选择在PKUNoRunHelper中打开.
+随后填写你想生成的记录参数, 填写完成后按提交, 选择在PKURunner中打开.
+重启PKURunner, 并正常登录账号即可看到新生成的记录.
+    </string>
+</resources>
